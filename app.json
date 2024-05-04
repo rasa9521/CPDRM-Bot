@@ -28,10 +28,9 @@
     ],
 
     "env": {
-
         "BOT_TOKEN": {
 
-            "description": "6662067892:AAGHRuBY4_A2Vft3VP34H1TnVA_mz5Z8azw"
+            "description": "6662067892:"
 
         },
 
